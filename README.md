@@ -8,6 +8,7 @@ Required for dimensional accuracy!!
 HOW TO USE CALCULATOR:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Rotation Distance Calc: To adjust step/mm travel of X and Y stepper motors
 
 Belt Pitch:             Use your respective belt pitch (GT2 = 2, GT3=3, etc)
@@ -15,6 +16,7 @@ Belt Pitch:             Use your respective belt pitch (GT2 = 2, GT3=3, etc)
 Number of Teeth:        Number of teeth on the pulley on the motor. (Standard= 16 or 20)
 
 Rotation Distance:      The calculated Rotation Distance to adequately tune AMU to be dimensional accurate (ex: 1 inch of software requested travel = 1 inch of real travel
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -29,6 +31,7 @@ Rotation Distance:      The calculated Rotation Distance to adequately tune AMU 
 4. IF OFF BY MORE THEN (0.5% - 1%), NOTE DOWN THE DISTANCE OF EXTRUDED MATERIAL
 5. USE CALCULATOR TO CORRECT ROTATION DISTANCE, AND INPUT INTO FIRMWARE
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Extruder Rotation Distance Calc:   To adjust step/mm travel of extruder stepper motors for adequate deposition of material
 
 Previous Rotation Distance:        Use the previous value used in the firmware before calibration 
@@ -38,6 +41,7 @@ Actual Extrude Distance:           Real measured amount of material extruded (me
 Requested Extrude Distance:        Requested amount of material to extrude (The input request)
 
 Extruder Rotation Distance:        The Calculated Extruder Rotation Distance to put into firmware, which should calibrate extruder to deposit correct distance of requested material. 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Calibrate Extruder Rotation Distance with every new Material, or new brand of material. 
