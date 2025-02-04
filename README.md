@@ -1,11 +1,6 @@
-Calculator for movement system of Automatic Manufacturing Unit
+Calculator for movement system of Automatic Manufacturing Unit.
+
 Used to fine-tune rotation values for AMU firmware stepper motors
-
-
-Required for dimensional accuracy!!
-
-
-HOW TO USE CALCULATOR:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,7 +16,7 @@ Rotation Distance:      The calculated Rotation Distance to adequately tune AMU 
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
               !!!!!!!!!!!!!!!!MAKE SURE EXTRUDER IS CLEAR TO PROCEED.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
                                                
@@ -30,7 +25,7 @@ Rotation Distance:      The calculated Rotation Distance to adequately tune AMU 
 3. CUT OFF EXTRUDED MATERIAL, AND MEASURE WITH CALIPERS TO MAKE SURE 100mm OF REQUESTED MATERIAL = 100mm OF EXTRUDED MATERIAL
 4. IF OFF BY MORE THEN (0.5% - 1%), NOTE DOWN THE DISTANCE OF EXTRUDED MATERIAL
 5. USE CALCULATOR TO CORRECT ROTATION DISTANCE, AND INPUT INTO FIRMWARE
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Extruder Rotation Distance Calc:   To adjust step/mm travel of extruder stepper motors for adequate deposition of material
 
@@ -44,4 +39,4 @@ Extruder Rotation Distance:        The Calculated Extruder Rotation Distance to 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Calibrate Extruder Rotation Distance with every new Material, or new brand of material. 
+
