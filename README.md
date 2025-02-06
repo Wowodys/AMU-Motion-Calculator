@@ -1,5 +1,5 @@
 Calculator for movement system of Automatic Manufacturing Unit.
-
+Download just AMUcalc.exe
 Used to fine-tune rotation values for AMU firmware stepper motors
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
