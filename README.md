@@ -14,7 +14,12 @@ Number of Teeth:        Number of teeth on the pulley on the motor. (Standard= 1
 
 Rotation Distance:      The calculated Rotation Distance to adequately tune AMU to be dimensional accurate (ex: 1 inch of software requested travel = 1 inch of real travel
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
+Lead-Screw Driven Axis Rotation Distance Calculation: To make sure that software commanded vertical travel of the printer head reflects actual vertical distance supplied by motor. 
+
+Screw Pitch (mm): From your lead screw. Most are double threaded standard 8mm leadscrews, as used on the ender 3
+
+
 
 
 
