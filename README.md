@@ -21,7 +21,7 @@ Screw Pitch (mm): From your lead screw. Most standard 2mm leadscrews, as used on
 
 Number Of Threads: Number of threads on the leadscrew, could be double threaded. I use single thread 8m pitch leadscrew as used in the ender 3. 
 
-My leadscrew: 
+My leadscrew: T8 trapezoidal 8 lead, 4 start, 2mm pitch leadscrew.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
