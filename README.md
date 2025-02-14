@@ -17,11 +17,11 @@ Rotation Distance:      The calculated Rotation Distance to adequately tune AMU 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------  
 Lead-Screw Driven Axis Rotation Distance Calculation: To make sure that software commanded vertical travel of the printer head reflects actual vertical distance supplied by motor. 
 
-Screw Pitch (mm): From your lead screw. Most are double threaded standard 8mm leadscrews, as used on the ender 3
+Screw Pitch (mm): From your lead screw. Most standard 2mm leadscrews, as used on the ender 3
 
+Number Of Threads: Number of threads on the leadscrew, could be double threaded. I use single thread 8m pitch leadscrew as used in the ender 3. 
 
-
-
+My leadscrew: 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
